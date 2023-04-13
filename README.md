@@ -4,7 +4,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15F71E&center=true&vCenter=true&width=435&lines=Hi+there!;I'm+Matheus+Lima" alt="Typing SVG" /></a>
 </p>
 <div style="display: inline_block" align="justify">
-insira seu texto aq 
+I'm the CEO of a technology startup, a programmer, and an international robotics competitor. I'm on GitHub to support our company and share some of my learnings from my undergraduate studies in Control and Automation Engineering. Besides that, I have vast leadership experience throughout my life. At the age of 13, I was already part of the leadership team of an NGO (Scouting Group), and today, at the age of 20, I hold the position of President in a university extension project focused on disseminating robotics. I am also the Vice-President of the Engineering Week, President of the Academic Center, initiated a scientific initiation project based on reinforcement learning, worked in conjunction with the Police and the Federal Revenue Service. Moreover, I have experience in competitive robotics (vice-champion LARC 2018, champion LARC 2019, and Double Classification in RoboCup; Modality: Soccer Light-Weight), working in the area of specialized hardware electronics and mechanics. However, I also have a good understanding of software development. 
+
+Here on my profile, you'll find some of the projects I've developed, which demonstrate my passion for technology and innovation. Additionally, I'm always willing to collaborate on other projects and with creative minds.
+
+If you want to know more about my experience in business leadership, programming, and robotics, feel free to contact me through the links available on my profile. It will be a pleasure to talk about technology and innovation with you.
+
+Thank you for visiting my profile!
 </div>
 
 ## 🚀 Statistics:
@@ -51,7 +57,7 @@ insira seu texto aq
  <img align="center" alt="premiere" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
  <img align="center" alt="photoshop" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
  <img align="center" alt="MatLab" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-<img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_08cbb05caf3271616f7fef03768dfbf5/fusion-360.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 70; height: 50; margin: 0px; width: 364px;" alt="Fusion 360 Features | G2" jsname="kn3ccd" data-iml="3452.699999809265">
+<img align="center" alt="Fusion" height="50" width="50" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_08cbb05caf3271616f7fef03768dfbf5/fusion-360.png" >
           
           
           
